@@ -1,5 +1,5 @@
 # ART with Forgetting
-This is an implementation of adaptive random testing with forgetting.
+This is an implementation of the "adaptive random testing with forgetting" algorithm.
 
 ## Usage
 ### Setup the following const variables before compile:
